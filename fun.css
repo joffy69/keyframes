@@ -3,7 +3,7 @@
     width: 150px;
     height: 0;
     margin:25px;
-    animation-name: growing;
+    animation-name: potato;
     animation-duration: 2s;
     animation-timing-function: ease-in-out;
     animation-fill-mode: forwards;
@@ -11,7 +11,7 @@
     animation-direction: alternate;
 }
 
-@keyframes growing {
+@keyframes potato {
     from {
         height: 0;
     }
